@@ -61,7 +61,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="mailto:betus_azak_95@hotmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
+  <a href="mailto:betus_azak_95@hotmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Hotmail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
   <a href="mailto:betus.azak.95@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/azakkizi" target="_blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="azakkizi" /></a>
   <a href="https://www.hackerrank.com/azakkizi" target="_blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="azakkizi" /></a> 
