@@ -1,4 +1,4 @@
-<h2 align="center">A passionate software developer from Turkey</h3>
+<h2 align="center">🌟 A passionate software developer 💻 <br> and <br> ✨ aspiring machine learning enthusiast 🤖 <br> from Turkey </h2>
 
 <h3>Languages:</h3>
 
