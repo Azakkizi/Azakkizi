@@ -55,7 +55,7 @@
 <p align="center">
   <a>
     <img src="https://raw.githubusercontent.com/Azakkizi/Azakkizi/main/wings/wing%20left.png" alt="wing-left" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azakkizi&theme=tokyonight&layout=compact&langs_count=10" alt="Azakkizi" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azakkizi&theme=swift&layout=compact&langs_count=10" alt="Azakkizi" />
     <img src="https://raw.githubusercontent.com/Azakkizi/Azakkizi/main/wings/wing%20right.png" alt="wing-left" />
   </a>
 </p>
